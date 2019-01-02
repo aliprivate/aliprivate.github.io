@@ -1,0 +1,156 @@
+Package: com.aliprivate.removercy103
+Name: Remover Cydia ALI
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
+Maintainer: pwn20wnd
+Author: pwn20wnd & coolstarorg
+Sponsor: GitHub.com <github.com>
+Section: ALI - DeleteToolALI
+Filename: ./debs/removertoolali.deb
+Size: 198234
+MD5sum: cbfd853e00e36256836a348a9ddc3ac0
+
+Package: com.aliprivate.alitool
+Name: ALI Tool
+Version: 2.9.4
+Architecture: iphoneos-arm
+Description: Backup, Restore App - Change Device Info for iPhone/iPad 10-10.2
+Author: NNM
+Section: ALI - AliTool (10.2)
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa
+Maintainer: NNM
+Filename: ./debs/alitool72.deb
+Size: 6462584
+MD5sum: 7c5019703532fd12c6b47249ad2fa4c2
+
+Package: com.aliprivate.aliautolead72
+Name: ALIAutoTool
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport,jetslammed
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak! ALIAutoTool Fix 2/12
+Maintainer: NNM
+Author: NNM
+Section: ALI - AliTool (10.2)
+Version: 0.0.1-487+debug
+Filename: ./debs/aliprivatetool72.deb
+Size: 5292576
+MD5sum: ff23ad739fb4f0fcb7b2170e6918ae4e
+
+Package: com.aliprivate.autotouch361
+Version: 3.6.1-1k
+Section: ALI - AliTool (10.2)
+Maintainer: Cydia.vn
+Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), libactivator, applist (>= 1.4.1)
+Conflicts: me.autotouch.autotouch.ios7, vn.gsm.autotouch.ios7
+Architecture: iphoneos-arm
+Description: record and playback touch operations
+Name: AutoTouch
+Author: Kent Krantz
+Icon: file:///Applications/AutoTouch.app/logo@2x-58.png
+Filename: ./debs/autotouchali.deb
+Size: 3190312
+MD5sum: f0244ef959c467c4c81223d0b305a831
+
+Package: com.aliprivate.aliautotool72fix
+Name: ALIAutoTool Fix Script
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport,jetslammed
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak! ALIAutoTool Fix 17/12
+Maintainer: NNM				(superantim.github.io)
+Author: NNM				(superantim.github.io)
+Section: ALI - AliTool (10.2)
+Version: 1.7.1-7+debug
+Installed-Size: 16604
+Filename: ./debs/aliautotool72fixscript.deb
+Size: 5306758
+MD5sum: a120916d94e96a0c76b586ec85a6588b
+
+Package: com.aliprivate.xcon4
+Name: xCon4
+Version: 42~beta4
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Author: Lunatik
+Section: ALI - Autolead72
+Maintainer: Xarold
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.repo.xarold.com.xcon, com.yourcompany.dtvrunner
+Filename: ./debs/xcon4ali.deb
+Size: 136604
+MD5sum: f7cc5794f134ab56f966ebfe1a737229
+
+Package: com.aliprivate.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0
+Architecture: iphoneos-arm
+Description: change your location using a map Cracked.....................
+Author: Cunstuck
+Section: ALI - Autolead72 
+Filename: ./debs/locationfakeali.deb
+Size: 549930
+MD5sum: 9732e83c2bff8b6ffc5135046f65ff15
+
+Package: com.aliprivate.autolead72
+Name: autolead
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Auto for IOS Model 9.2.1 - 10.3.3
+Author: aliprivate 			<aliprivate.github.io>
+Section: ALI - Autolead72
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.aliprivate.SSLKillSwitch2,com.aliprivate.xcon4,com.aliprivate.hookkeyboard,com.aliprivate.icontool,com.aliprivate.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Filename: ./debs/autolead72ali.deb
+Size: 243088
+MD5sum: d0417ae19db0f9bdf7fea956be70e311
+
+Package: com.aliprivate.hookkeyboard
+Name: hookkeyboard
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
+Author: aliprivate 			<aliprivate.github.io>
+Section: ALI - Autolead72
+Depends: mobilesubstrate
+Filename: ./debs/hookkeybroad7-2.deb
+Size: 331800
+MD5sum: 16c7a6db1bef1b131f9797c1f56af756
+
+Package: com.aliprivate.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Author: aliprivate 			<aliprivate.github.io>
+Section: ALI - Autolead72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+Filename: ./debs/icontool72.deb
+Size: 384262
+MD5sum: cb4586f899da73cb54e25bf6b18740d9
+
+Package: com.aliprivate.wTabwData73
+Name: wTabwData73
+Version: 0.0.2-4
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak
+Maintainer: aliprivate 			<aliprivate.github.io>
+Author: aliprivate 			<aliprivate.github.io>
+Section: ALI - Autolead72
+Depends: mobilesubstrate
+Filename: ./debs/wtabdata73.deb
+Size: 41374
+MD5sum: 16d36ff87c6ade583ed6e00eea051b01
+
+Package: com.aliprivate.SSLKillSwitch2
+Name: SSL Kill Switch 2
+Version: 0.11-1
+Architecture: iphoneos-arm
+Description: ByPass SSL certificate - within iOS 9.2.1-10.3.3
+Maintainer: aliprivate 			<aliprivate.github.io>
+Author: aliprivate 			<aliprivate.github.io>
+Section: ALI - Autolead72
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/SSLkill72.deb
+Size: 10104
+MD5sum: a7738a6247ead2afb307d2a0297eb2d0
